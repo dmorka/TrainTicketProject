@@ -1,0 +1,10 @@
+#ifndef TRAINTICKETPROJECT_TRAVELCLASS_H
+#define TRAINTICKETPROJECT_TRAVELCLASS_H
+
+enum TravelClass
+{
+    FirstClass,
+    SecondClass
+};
+
+#endif //TRAINTICKETPROJECT_TRAVELCLASS_H
