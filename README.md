@@ -9,5 +9,9 @@ Object-oriented programming
 ### Programming language:
 C++
 
-### Date:
-2019
+### Academic year:
+2019/2020
+
+### Authors:
+Dawid Morka\
+Kacper Włodarczyk
